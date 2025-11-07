@@ -1,0 +1,182 @@
+[
+  {
+    "taxi_company_code": "TX001",
+    "period_date": "2025-11-01",
+    "fuel_cost": 170701.0,
+    "maintenance_cost": 70035.25
+  },
+  {
+    "taxi_company_code": "TX001",
+    "period_date": "2025-10-01",
+    "fuel_cost": 544979.11,
+    "maintenance_cost": 85669.79
+  },
+  {
+    "taxi_company_code": "TX001",
+    "period_date": "2025-09-01",
+    "fuel_cost": 359126.68,
+    "maintenance_cost": 57711.27
+  },
+  {
+    "taxi_company_code": "TX001",
+    "period_date": "2025-08-01",
+    "fuel_cost": 286884.48,
+    "maintenance_cost": 188597.83
+  },
+  {
+    "taxi_company_code": "TX001",
+    "period_date": "2025-07-01",
+    "fuel_cost": 553624.77,
+    "maintenance_cost": 129643.58
+  },
+  {
+    "taxi_company_code": "TX001",
+    "period_date": "2025-06-01",
+    "fuel_cost": 219797.05,
+    "maintenance_cost": 151242.82
+  },
+  {
+    "taxi_company_code": "TX002",
+    "period_date": "2025-11-01",
+    "fuel_cost": 214381.75,
+    "maintenance_cost": 88301.98
+  },
+  {
+    "taxi_company_code": "TX002",
+    "period_date": "2025-10-01",
+    "fuel_cost": 792666.35,
+    "maintenance_cost": 135199.96
+  },
+  {
+    "taxi_company_code": "TX002",
+    "period_date": "2025-09-01",
+    "fuel_cost": 489864.82,
+    "maintenance_cost": 143230.57
+  },
+  {
+    "taxi_company_code": "TX002",
+    "period_date": "2025-08-01",
+    "fuel_cost": 689996.34,
+    "maintenance_cost": 159679.98
+  },
+  {
+    "taxi_company_code": "TX002",
+    "period_date": "2025-07-01",
+    "fuel_cost": 260333.65,
+    "maintenance_cost": 25778.04
+  },
+  {
+    "taxi_company_code": "TX002",
+    "period_date": "2025-06-01",
+    "fuel_cost": 320817.13,
+    "maintenance_cost": 68193.36
+  },
+  {
+    "taxi_company_code": "TX003",
+    "period_date": "2025-11-01",
+    "fuel_cost": 247687.99,
+    "maintenance_cost": 189723.75
+  },
+  {
+    "taxi_company_code": "TX003",
+    "period_date": "2025-10-01",
+    "fuel_cost": 713457.34,
+    "maintenance_cost": 76642.02
+  },
+  {
+    "taxi_company_code": "TX003",
+    "period_date": "2025-09-01",
+    "fuel_cost": 558807.07,
+    "maintenance_cost": 91213.74
+  },
+  {
+    "taxi_company_code": "TX003",
+    "period_date": "2025-08-01",
+    "fuel_cost": 740183.31,
+    "maintenance_cost": 102593.33
+  },
+  {
+    "taxi_company_code": "TX003",
+    "period_date": "2025-07-01",
+    "fuel_cost": 285416.12,
+    "maintenance_cost": 64392.95
+  },
+  {
+    "taxi_company_code": "TX003",
+    "period_date": "2025-06-01",
+    "fuel_cost": 492957.69,
+    "maintenance_cost": 67293.49
+  },
+  {
+    "taxi_company_code": "TX004",
+    "period_date": "2025-11-01",
+    "fuel_cost": 509210.19,
+    "maintenance_cost": 181608.12
+  },
+  {
+    "taxi_company_code": "TX004",
+    "period_date": "2025-10-01",
+    "fuel_cost": 379580.35,
+    "maintenance_cost": 59477.74
+  },
+  {
+    "taxi_company_code": "TX004",
+    "period_date": "2025-09-01",
+    "fuel_cost": 798276.32,
+    "maintenance_cost": 111714.73
+  },
+  {
+    "taxi_company_code": "TX004",
+    "period_date": "2025-08-01",
+    "fuel_cost": 163636.59,
+    "maintenance_cost": 28480.95
+  },
+  {
+    "taxi_company_code": "TX004",
+    "period_date": "2025-07-01",
+    "fuel_cost": 176754.39,
+    "maintenance_cost": 132940.29
+  },
+  {
+    "taxi_company_code": "TX004",
+    "period_date": "2025-06-01",
+    "fuel_cost": 654455.56,
+    "maintenance_cost": 95988.79
+  },
+  {
+    "taxi_company_code": "TX005",
+    "period_date": "2025-11-01",
+    "fuel_cost": 144469.39,
+    "maintenance_cost": 88691.47
+  },
+  {
+    "taxi_company_code": "TX005",
+    "period_date": "2025-10-01",
+    "fuel_cost": 797284.97,
+    "maintenance_cost": 115240.58
+  },
+  {
+    "taxi_company_code": "TX005",
+    "period_date": "2025-09-01",
+    "fuel_cost": 779754.86,
+    "maintenance_cost": 174940.35
+  },
+  {
+    "taxi_company_code": "TX005",
+    "period_date": "2025-08-01",
+    "fuel_cost": 108036.72,
+    "maintenance_cost": 149729.93
+  },
+  {
+    "taxi_company_code": "TX005",
+    "period_date": "2025-07-01",
+    "fuel_cost": 577197.26,
+    "maintenance_cost": 116654.66
+  },
+  {
+    "taxi_company_code": "TX005",
+    "period_date": "2025-06-01",
+    "fuel_cost": 286777.63,
+    "maintenance_cost": 135373.12
+  }
+]
